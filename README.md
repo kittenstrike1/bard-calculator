@@ -6,7 +6,7 @@ It is about a calculator in Python using the `tkinter` library. It is for... exp
 ## Is this repository your work?
 My work? 50% AI, 50% published by me.
 ## Where could I post some questions, bugs, and feedback?
-Go to Issues > New issue.
+Go to Discussions.
 
 ## Recommended web browsers:
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
